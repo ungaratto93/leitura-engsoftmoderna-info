@@ -1,4 +1,4 @@
 ﻿Chamada feita pelo teste,Cobertura de comandos,Cobertura de branches
-"f(0,0)",,
-"f(1,1)",,
-"f(0,0) e f(1,1)",,
+"f(0,0)",1,1
+"f(1,1)",4,2
+"f(0,0) e f(1,1)",5,2
