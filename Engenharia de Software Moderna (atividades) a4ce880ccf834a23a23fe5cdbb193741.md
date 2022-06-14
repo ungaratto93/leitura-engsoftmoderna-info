@@ -15,3 +15,5 @@
 [Chapter ****7 - Arquitetura****](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%207%20-%20Arquitetura%20f52bb1645ab24b39b44c58fbce4ddedd.md)
 
 [Chapter 8 - Testes](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%208%20-%20Testes%20dbdc481de2614a35877d17650868f770.md)
+
+[Chapter 9 - Refactoring](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%209%20-%20Refactoring%20a50f4ef4eca04b9a8eefb5671d3c3d8c.md)

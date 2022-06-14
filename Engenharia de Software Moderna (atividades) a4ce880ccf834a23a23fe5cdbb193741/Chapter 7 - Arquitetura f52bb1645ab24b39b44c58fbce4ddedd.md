@@ -78,6 +78,8 @@ Imagem de MVC WEB
 
 9. Explique o objetivo do conceito de tópicos em uma arquitetura publish/subscribe.
 
+Um cliente assina um tópico ao invés de todas mensagens que tenha interesse 
+
 10. (POSCOMP, 2019, adaptado) Marque V ou F.
 
 (v ) O padrão MVC é uma adaptação do padrão arquitetural Camadas. A Camada Visão lida com a apresentação e a manipulação da interface, a Camada Modelo organiza os objetos específicos da aplicação, e a Camada Controle posiciona-se entre estas duas com as regras do negócio.
