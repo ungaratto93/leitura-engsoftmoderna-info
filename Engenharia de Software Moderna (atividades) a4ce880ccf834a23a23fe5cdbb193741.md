@@ -17,3 +17,5 @@
 [Chapter 8 - Testes](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%208%20-%20Testes%20dbdc481de2614a35877d17650868f770.md)
 
 [Chapter 9 - Refactoring](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%209%20-%20Refactoring%20a50f4ef4eca04b9a8eefb5671d3c3d8c.md)
+
+[Chapter 10 - DevOps](Engenharia%20de%20Software%20Moderna%20(atividades)%20a4ce880ccf834a23a23fe5cdbb193741/Chapter%2010%20-%20DevOps%2092285f5ed45b40ffaa5767be1e5a1b5a.md)
